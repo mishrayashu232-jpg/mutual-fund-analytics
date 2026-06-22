@@ -1,0 +1,22 @@
+# Mutual Fund Analytics Project — Python Dependencies
+# Generated: Day 1
+# Install: pip install -r requirements.txt
+
+# ── Core Data ──────────────────────────────────────────────────────────────
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.11.0
+
+# ── Visualisation ──────────────────────────────────────────────────────────
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# ── Database / ORM ─────────────────────────────────────────────────────────
+sqlalchemy>=2.0.0
+
+# ── HTTP / API ─────────────────────────────────────────────────────────────
+requests>=2.31.0
+
+# ── Notebooks ──────────────────────────────────────────────────────────────
+jupyter>=1.0.0
